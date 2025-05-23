@@ -65,6 +65,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/rust,rust-analyzer,visualstudiocode,windows
 
-# Added by cargo
-
-/target
+# Dev files
+**/config.json
