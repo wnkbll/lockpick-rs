@@ -1,0 +1,11 @@
+style_edition = "2024"
+max_width = 88
+reorder_impl_items = true
+reorder_imports = true
+group_imports = "StdExternalCrate"
+imports_layout = "HorizontalVertical"
+imports_granularity = "Module"
+binop_separator = "Back"
+wrap_comments = true
+match_block_trailing_comma = true
+normalize_comments = true
